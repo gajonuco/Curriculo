@@ -12,7 +12,7 @@
 - Procurando maiores conhecimentos para me tornar um desenvolvedor junior e trabalahar na gringa. 💯
 - Sou autista nível 1 🧩
 
-#Contatos
+# Contatos
 <div>
 <a href="https://www.linkedin.com/in/gabriel-n%C3%BA%C3%B1ez-b81386130/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
@@ -33,7 +33,7 @@
 </div>
 
 
-#Skills
+# Skills
 
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
