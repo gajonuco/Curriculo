@@ -1,6 +1,6 @@
 # Olá! Seja bem - vindo ao meu perfil no GitHub
 
-## Além de tecnología, gosto de comer saudável e aprender violino 🤩😎🤩
+## Além de tecnología, gosto de aprender violino 🤩😎🤩
 
 <div>
 <img src="https://camo.githubusercontent.com/9714013866d9159dd306b322269a267eef706ff00164a928df5ccf3043f3ec8f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d67616a6f6e75636f267468656d653d68696768636f6e74726173742673686f775f69636f6e733d7472756526686964655f626f726465723d66616c736526636f756e745f707269766174653d74727565" width="400" height="300" />
